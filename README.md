@@ -31,7 +31,7 @@ Kliboard is a simple text-saving application that allows users to create and man
 ### Weather Application
 Weather forecasting app with additional features to enhance usability and accessibility
 - [Repository](https://github.com/bababubudev/WeatherApplication)
-- Live demo requires building this project in android studio.
+- Live demo requires building this project in android studio. Screenshots available in repository README
 - <div >
 	<img width="25" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/>
 	<img width="25" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/>
