@@ -2,7 +2,7 @@
 
 ## Projects
 
-These are few of the projects I've worked on.
+These are few of my completed projects.
 
 ### Calculator 
 The key feature of CalculatorJS is its open input system. Users can type any math equation directly into the input box, just like they would on paper or in a code editor.
