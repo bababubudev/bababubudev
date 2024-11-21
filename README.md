@@ -1,4 +1,4 @@
-# Hello! I am Prabesh Sharma.
+# Hello! I am Prabesh.
 
 ## Projects
 
