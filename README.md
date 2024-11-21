@@ -1,4 +1,4 @@
-# Hello I am Prabesh. And I like to code. 
+# Hello! I am Prabesh Sharma.
 
 ## Projects
 
