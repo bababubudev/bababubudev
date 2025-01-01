@@ -17,7 +17,7 @@ The key feature of CalculatorJS is its open input system. Users can type any mat
 
 ### Kliboard
 Kliboard is a simple text-saving application that allows users to create and manage text spaces with a specified duration for automatic removal.
-- [Repository](https://github.com/username/another-project)
+- [Repository](https://github.com/bababubudev/Kliboard)
 - [Live Demo](https://bababubudev.github.io/Kliboard/)
 - <div >
 	<img width="25" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
