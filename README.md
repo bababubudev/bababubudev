@@ -2,23 +2,21 @@
 
 ## Projects
 
-These are few of my completed projects.
+These are few of my hobby projects.
 
-### Calculator 
-The key feature of CalculatorJS is its open input system. Users can type any math equation directly into the input box, just like they would on paper or in a code editor.
+### Advanced Open-Input Calculator
+Advanced Calculator that can take flexible, free-form inputs and perform sophisticated calculations based on whatever the user enters
 - [Repository](https://github.com/bababubudev/CalculatorJs)
-- [Live Demo](https://bababubudev.github.io/CalculatorJs/)
+- [Live Demo](https://calculab.pareki.xyz/)
 - <div>
 	<img width="25" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 	<img width="25" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 	<img width="25" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/>
 </div>
 
-
-### Kliboard
-Kliboard is a simple text-saving application that allows users to create and manage text spaces with a specified duration for automatic removal.
-- [Repository](https://github.com/bababubudev/Kliboard)
-- [Live Demo](https://bababubudev.github.io/Kliboard/)
+### Fullstack Authentication
+Full-stack authentication system with user and admin functionalities using Node.js, Express, PostgreSQL, and React. Deployed using GitHub Container Registry (GHCR) and GitHub Actions for CI/CD.
+- [Repository](https://github.com/bababubudev/Authentication)
 - <div >
 	<img width="25" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 	<img width="25" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
