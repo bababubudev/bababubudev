@@ -2,7 +2,7 @@
 
 ## Projects
 
-These are few of my hobby projects.
+These are few of my projects I worked on:
 
 ### Advanced Open-Input Calculator
 Advanced Calculator that can take flexible, free-form inputs and perform sophisticated calculations based on whatever the user enters
@@ -25,6 +25,20 @@ Full-stack authentication system with user and admin functionalities using Node.
 	<img width="25" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
 </div>
 
+
+### Guess Who Mobile Game
+"Guess Who?" is a full-stack, cross-platform game implementation that delivers both local and online multiplayer experiences of the classic deductive guessing game.
+- [Repository](https://github.com/RomaZinkevich/the-bronzest-jade)
+- [Live Demo as Android APK](https://github.com/RomaZinkevich/the-bronzest-jade/releases/download/1.0.0/GuessWhoAPK.apk)
+- iOS live demo coming soon
+- [Live Demo as Web App](https://guess-who-web-nine.vercel.app)
+- <div >
+	<img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="websocket" title="websocket"/>
+	<img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/>
+	<img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" alt="Dart" title="Dart"/>
+	<img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/>
+	<img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+</div>
 
 ### Weathers
 Weather forecasting app with additional features to enhance usability and accessibility
